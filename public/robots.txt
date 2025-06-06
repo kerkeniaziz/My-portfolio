@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.kerkeniaziz.ovh
+
+# Sitemaps
+Sitemap: https://www.kerkeniaziz.ovh/sitemap.xml
