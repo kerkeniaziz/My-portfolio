@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-VEXX4J9MEZ"></script>
       {/* eslint-disable-next-line @next/next/no-before-interactive-script-outside-document */}
       <script
@@ -36,6 +37,8 @@ export default function RootLayout({
           `,
         }}
       />
+      </head>
+      
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

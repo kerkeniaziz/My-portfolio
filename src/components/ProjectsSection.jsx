@@ -11,7 +11,7 @@ const projects = [
     image: "/porfolio.png",
     tags: ["Next.js", "TailwindCSS"],
     demoUrl: "",
-    githubUrl: "",
+    githubUrl: "https://github.com/kerkeniaziz/My-portfolio",
   }
 ];
 
